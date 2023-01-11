@@ -1,0 +1,60 @@
+=======LOAD=======
+img_files / there are lots of people in the park.RAW / 100
+img_files / the man is gorgeous.RAW / 111
+===================
+
+
+
+=======ADD=======
+SUCCESS
+===================
+
+
+
+iling.RAW / 0
+===================
+
+
+
+=======ADD=======
+SUCCESS
+===================
+
+
+
+ng is like a pyramid.RAW / 333
+img_files / river is under the bridge.RAW / 400
+img_files / The house has windows and doors.RAW / 444
+img_files / the boat sails a big river .RAW / 500
+img_files / The celebrity posed for the picture.RAW / 555
+img_files / there are lots of ariplane.RAW / 600
+img_files / The woman is looking at the man .RAW / 666
+img_files / lena is famous person.RAW / 700
+img_files / the woman is wearing a hat.RAW / 777
+img_files / there are cars and people.RAW / 800
+img_files / airplane fly on the mountain.RAW / 888
+img_files / there are numbers and chinese characters.RAW / 900
+img_files / fence is near trees.RAW / 999
+img_files / fence is near trees.RAW / 0
+===================
+
+
+
+=======ADD=======
+SUCCESS
+===================
+
+
+
+=======MOVE=======
+SUCCESS
+===================
+
+
+
+=MOVE=======
+SUCCESS
+===================
+
+
+
